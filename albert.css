@@ -1,0 +1,36 @@
+#image {
+display: block;
+width: 100%;
+max-width: 100;
+height: auto;
+}
+
+#img-div {
+    text-align: center;    
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+    color: blue;    
+}
+
+#img-caption {
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
+
+#tribute-info{
+    color: blue;
+    font-size: 20px;
+}
+#main {
+    background-color: black;
+    position: absolute;
+}
+ body {
+    height: 100%;
+    margin: 0;
+}
+
